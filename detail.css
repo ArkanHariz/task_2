@@ -1,0 +1,21 @@
+h2{
+    color: purple;
+    text-align: center;
+}
+table, td, tr {
+    border: solid 1px black;
+    width: auto;
+    height: 100;
+    text-align: center;
+    padding: 10px;
+}
+.detail-table {
+    border-collapse: collapse;
+}
+.row1 {
+    font-weight: bold;
+    background-color: gray;
+}
+img{
+    width: 150px;
+}
